@@ -1,5 +1,5 @@
 # Gepi-latas
-Dobókocka látható számainak összegzésére való programleírás
+Dobókocka látható számainak összegzésére való programleírás.
 Gépi látás című tanóra során tanultak alapján algortimus készítése.
 
 Algortimus sajátosságai:
